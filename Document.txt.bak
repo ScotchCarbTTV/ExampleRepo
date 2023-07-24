@@ -3,11 +3,13 @@ Example text
 "Hello world" - Ian, Game Dev Semester 2 2023
 
 <<<<<<< HEAD
+Eevee! - Richard, Game Dev Semester 2 2023
+
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)  Felix Lee 
-=======
+
                                                 ██████████
                                               ██          ██
                                             ██              ██
@@ -60,4 +62,4 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
                 ██████                                    ██████
               ██      ██                                ██      ██
                 ██████                                    ██████
->>>>>>> 1abc735c98b141c56ab9709d49ec881e15ba2f68
+
